@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IPCUsingMessanger</string>
+    <string name="second_message">Second Message</string>
+    <string name="first_message">First Message</string>
+</resources>
